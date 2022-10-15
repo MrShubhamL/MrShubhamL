@@ -1,4 +1,4 @@
-[![MasterHead](https://softwarecompanyinthrissur.files.wordpress.com/2016/07/software-company-in-thrissursoftware-development-company-in-thrissursoftwares-in-thrissursoftware-tech.gif)](https://rishavchanda.io)
+[![MasterHead](https://blog.goodelearning.com/wp-content/uploads/2021/03/DevOps-institute-automation-in-DevOps.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shubham Lohar</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/media/1173d79be1db489e65970b44f43f44cb.gif">
