@@ -1,8 +1,12 @@
 [![MasterHead](https://blog.goodelearning.com/wp-content/uploads/2021/03/DevOps-institute-automation-in-DevOps.jpg)](https://rishavchanda.io)
+
 <h1 align="center">
-<span><img align="right" alt="Coding" height=60 src="https://avatars.githubusercontent.com/u/82263361?s=96&v=4"></span>
-Shubham Lohar</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+Hi, I am Shubham Lohar</h1>
+
+<h3 align="center">
+  <span><img align="left" alt="Coding" height=100 src="https://avatars.githubusercontent.com/u/82263361?s=96&v=4"></span>
+  A passionate backend developer from India</h3>
+
 <img align="right" alt="Coding" width="400" src="https://wealus.com/wp-content/uploads/2021/08/devops.jpg">
 
 
