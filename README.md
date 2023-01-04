@@ -18,7 +18,7 @@
 - ❓ Ask me about anything related to AWS Services and related Java technologies  
   
 
-- ⚡To know more about me on [Portfolio](http://myprojectzone.me.s3-website.ap-south-1.amazonaws.com/)  
+- ⚡To know more about me on [Portfolio](http://mystatic-website-bucket-01.s3-website.ap-south-1.amazonaws.com/)  
   
 
 <br/>  
